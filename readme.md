@@ -34,14 +34,14 @@ gcc calculator.c -o calculator
 ```
 ## Usage
 Here is an example of some operations you can perform:
-**Addition**: 
+- **Addition**
 input: 5 + 2
 output: 7
-**Multiplication**
+- **Multiplication**
 input: 7 * 9
 output: 63
 
-**cube**
+- **cube**
 input: 7
 output: 343
 
