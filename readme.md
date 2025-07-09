@@ -16,7 +16,7 @@ This program can perform the followng operations
 ## How to use
 1. Clone this repository to your local machine
 ```bash
-git clone 
+git clone https://github.com/Marangi037/guessing_number_game
 ```
 2. Navigate to the project directory
 
@@ -55,7 +55,7 @@ Basic knowledge of running programs on the terminal.
 Contributions are welcome! If you'd like to improve this project, feel free to fork the repository and submit a pull request.
 
 ## License
-This project is licensed under the MIT License.See [LICENSE](license) for details.
+This project is licensed under the MIT License.Check [LICENSE](license) for details.
 
 
 ## Author
